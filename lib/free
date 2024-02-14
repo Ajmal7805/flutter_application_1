@@ -1,0 +1,20 @@
+Column(
+                    mainAxisAlignment: MainAxisAlignment.start,
+                    crossAxisAlignment: CrossAxisAlignment.start,
+                    children: [
+                      Text(
+                        "Current Location",
+                        style: TextStyle(
+                            fontSize: 8.8,
+                            fontWeight: FontWeight.w400,
+                            color: Colors.white),
+                      ),
+                      Text(
+                        "Labuan Bajo, INA",
+                        style: TextStyle(
+                            fontSize: 11.73,
+                            fontWeight: FontWeight.w800,
+                            color: Colors.white),
+                      ),
+                    ],
+                  ),
